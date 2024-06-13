@@ -128,3 +128,6 @@ data/
 init-letsencrypt.sh
 wait-for-it.sh
 backend/.vscode/settings.json
+
+
+frontend/src/random.ts

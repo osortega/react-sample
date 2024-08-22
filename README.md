@@ -17,7 +17,7 @@
 - Auto formatted with Prettier and Black
 - Tested with Jest, Pytest and Cypress
 - Continuous Integration
-
+a
 ## Built using a Modern stack 💎
 
 ### Frontend
